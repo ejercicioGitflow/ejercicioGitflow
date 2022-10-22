@@ -1,1 +1,2 @@
-# ejercicioGitflow
+# Ejercicio de Gitflow
+# Gonzalo Rojas
